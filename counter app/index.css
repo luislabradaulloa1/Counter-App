@@ -1,0 +1,13 @@
+body {
+    background-color: beige;
+}
+div {
+    text-align: center;
+}
+
+button {
+    background-color: darkcyan;
+    border-radius: 10px;
+    color: ivory;
+    border-color: goldenrod;
+}
